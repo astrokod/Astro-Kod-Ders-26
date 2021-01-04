@@ -9,9 +9,9 @@ Bu modül [Astro Kod](https://www.youtube.com/channel/UC0A7Cv8ZTPw4hnukLbMcU6g) 
 Bu modül pip ile kurulabilir hale getirilecektir.
 
 Videolar:
-- Video 1
-- Video 2
-- Video 3
+- [Video 1](https://www.youtube.com/watch?v=APblJAr_4jg)
+- [Video 2](https://www.youtube.com/watch?v=jvMkYr1PzdI)
+- [Video 3](https://www.youtube.com/watch?v=Oh5lnm9J9qQ)
 
 ## Hakkında
 Bu modül türev hesabı için [SymPy](https://www.sympy.org/en/index.html) kullanır.
